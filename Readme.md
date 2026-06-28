@@ -26,16 +26,16 @@ I have been saying for a long time that gold is a bad investment, but with the h
 ## Output of Analysis
 
 Looking at the average returns from a duration point of view, Gold is better only when you look at a short holding period
-![ DJI & Gold Holding Period](charts\01b_year_buckets_all_avg.png)
+![ DJI & Gold Holding Period](charts/01b_year_buckets_all_avg.png)
 
 Even when we take BSE investing into consideration, the same results hold
-![BSE, DJI & Gold Holding Period](charts\02b_year_buckets_bse_filter_avg.png)
+![BSE, DJI & Gold Holding Period](charts/02b_year_buckets_bse_filter_avg.png)
 
 If we look at the returns in every half decade, the volatile nature of investments becomes clear
-![Bucketing by half decades End](charts\04b_halfdecade_end_bse_filter_avg.png)
+![Bucketing by half decades End](charts/04b_halfdecade_end_bse_filter_avg.png)
 
 You can clearly see the effect of the bull run in Gold prices when you look at this graph. The value of Gold returns is so high because the investments started in this half decade have seen huge returns due to the exponential rise.
-![Bucketing by half decades start](charts\06b_halfdecade_start_bse_filter_avg.png)
+![Bucketing by half decades start](charts/06b_halfdecade_start_bse_filter_avg.png)
 
 
 # Conclusion.
